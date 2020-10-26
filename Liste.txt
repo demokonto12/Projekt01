@@ -1,8 +1,0 @@
-Einkaufsliste:
-
-Obst
-Gemüse
-Milch
-Fleisch
-Getränke
-Zucker

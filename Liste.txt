@@ -5,5 +5,3 @@ Gemüse
 Milch
 Fleisch
 Getränke
-Käse
-Brot

@@ -7,3 +7,4 @@ Fleisch
 Getränke
 Käse
 Brot
+Schokolade

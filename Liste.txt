@@ -6,4 +6,3 @@ Milch
 Fleisch
 Getränke
 Zucker
-Schokolade
